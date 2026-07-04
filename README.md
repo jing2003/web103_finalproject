@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Jingyi He and Bingying Li
+Designed and developed by: Jingyi He, Bingying Li, [please remember to add your name here]
 
 🔗 Link to deployed app:
 
