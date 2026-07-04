@@ -32,25 +32,61 @@ Version Control: Git and GitHub
 
 ## Features
 
-### [Name of Feature 1]
+### Story Project Dashboard
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+Users can view all story projects from a main dashboard. Each project card shows basic information such as the project title, description, number of scenes, and overall progress.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### Create and Edit Story Projects
 
-[short description goes here]
+Users can create a new story project and update project details such as title, description, genre, and project status. This gives creators a starting point for organizing each story separately.
+
+[gif goes here]
+
+### Scene Manager
+
+Users can add, view, edit, and delete scenes within a story project. Each scene can include details such as title, summary, timeline order, mood, status, purpose, and conflict.
+
+[gif goes here]
+
+### Character Profiles
+
+Users can create and manage character profiles with details such as name, role, description, motivation, and notes. This helps creators keep character information organized instead of scattered across separate documents.
+
+[gif goes here]
+
+### Location Library
+
+Users can create reusable story locations and connect scenes to those locations. This helps creators track where events happen and reuse important settings across multiple scenes.
+
+[gif goes here]
+
+### Scene Character Assignments
+
+Users can assign multiple characters to a scene and describe each character's role in that scene. This feature demonstrates a many-to-many relationship between scenes and characters using a join table.
+
+[gif goes here]
+
+### Scene Filtering and Sorting
+
+Users can filter or sort scenes by character, location, mood, status, or timeline order. This makes it easier to find specific story moments and review the structure of a project.
+
+[gif goes here]
+
+### Story Progress Overview
+
+Users can view calculated story progress, such as how many scenes are completed compared to the total number of scenes. This gives creators a quick summary of how much planning work is finished.
 
 [gif goes here]
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+
+### [Name of Feature]
+
+[short description goes here]
+
+[gif goes here]
 
 ## Installation Instructions
 
