@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Jingyi He, Bingying Li, [please remember to add your name here]
+Designed and developed by: Jingyi He, Bingying Li, Adeline Greene, Abdelrahman Mohamed, Allen Ramirez, and Salman Khan
 
 🔗 Link to deployed app:
 
@@ -127,6 +127,18 @@ Examples include:
 The app displays a loading spinner while retrieving data. Form inputs and submission buttons are temporarily disabled while a request is being processed to prevent duplicate submissions.
 
 For example, a submit button may change from Save Scene to Saving... until the request is completed.
+
+[gif goes here]
+
+### User Authentication and Login
+
+Users must login using an authentication mechanism before saving their projects
+
+[gif goes here]
+
+### Automatically Generated Project Templates
+
+A project template, containing placholder scenes and characters, is automatically generated from on user inputs (eg. the type of project)
 
 [gif goes here]
 

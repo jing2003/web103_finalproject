@@ -10,8 +10,6 @@ Reference the Writing User Stories final project guide in the course portal for 
 
 ## Draft User Stories
 
-[👉🏾👉🏾👉🏾 Include at least at least 10 user stories in this format:]
-
 1. As a [user role], I want to [what], so that [why].
 2. As a Story Creator, I want to create a new story project, so that I can organize all of my story ideas in one place.
 3. As a Story Creator, I want to add scenes to a story project, so that I can plan the major events in my story.

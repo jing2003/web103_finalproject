@@ -6,9 +6,9 @@ This document should be completed and submitted during **Unit 5** of this course
 
 This unit, be sure to complete all tasks listed below. To complete a task, place an `x` between the brackets.
 
-- [ ] Read and understand all required features
-  - [ ] Understand you **must** implement **all** baseline features and **two** custom features
-- [ ] In `readme.md`: update app name to your app's name
+- [x] Read and understand all required features
+  - [x] Understand you **must** implement **all** baseline features and **two** custom features
+- [x] In `readme.md`: update app name to your app's name
 - [x] In `readme.md`: add all group members' names
 - [x] In `readme.md`: complete the **Description and Purpose** section
 - [x] In `readme.md`: complete the **Inspiration** section
@@ -25,7 +25,7 @@ Our group was able to choose a project idea that feels creative, useful, and rea
 
 ### 2. What were some challenges your group faced in this unit?
 
-One challenge was narrowing the idea into a version that is creative but still manageable for the project timeline. ArcForge could include many possible story planning features, so we had to focus on the core features first, such as projects, scenes, characters, locations, and scene-character relationships. Another challenge was making sure the project idea clearly matched the required technical features, especially database relationships, RESTful API routes, and custom features. Since this is a group project, we also need to make sure everyone understands the app idea and has space to contribute.
+One challenge was narrowing the idea into a version that is creative but still manageable for the project timeline. ArcForge could include many possible story planning features, so we had to focus on the core features first, such as projects, scenes, characters, locations, and scene-character relationships. Another challenge was making sure the project idea clearly matched the required technical features, especially database relationships, RESTful API routes, and custom features. Since this is a group project, we also need to make sure everyone understands the app idea and has space to contribute. A third challenge was including four new members halfway through the first week, as Codepath merged three teams of two members.
 
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 
