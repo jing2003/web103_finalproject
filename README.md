@@ -114,9 +114,11 @@ The app displays temporary success or error messages after important actions, su
 
 Examples include:
 
-“Scene created successfully.”
-“Character updated successfully.”
-“Unable to delete location.”
+- “Scene created successfully.”
+
+- “Character updated successfully.”
+
+- “Unable to delete location.”
 
 [gif goes here]
 
