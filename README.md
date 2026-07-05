@@ -86,10 +86,13 @@ Users can navigate to individual story, scene, character, and location pages. Th
 
 Example routes include:
 
-/projects/:projectId
-/projects/:projectId/scenes/:sceneId
-/characters/:characterId
-/locations/:locationId
+- `/projects/:projectId`
+
+- `/projects/:projectId/scenes/:sceneId`
+
+- `/characters/:characterId`
+
+- `/locations/:locationId`
 
 [gif goes here]
 
