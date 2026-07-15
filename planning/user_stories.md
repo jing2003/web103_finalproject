@@ -20,6 +20,6 @@ Reference the Writing User Stories final project guide in the course portal for 
 8. As a Story Creator, I want to mark a scene's status as draft, in progress, or completed, so that I can track my story planning progress.
 9. As a Story Creator, I want to filter scenes by character, location, mood, or status, so that I can quickly find the story details I need.
 10. As a Story Creator, I want to view scenes in timeline order, so that I can check whether the story events make sense chronologically.
-11. As a Team Member, I want to view the story overview page, so that I can understand the project's characters, scenes, locations, and progress before contributing.
-12. As a Team Member, I want to edit existing scene details, so that I can help update the story as the project changes.
+11. As a Team Member, I want to view a project overview showing the project title, scene count, character count, location count, and completed-scene progress, so that I can understand the project's current state before contributing.
+12. As a Team Member, I want to update a scene's title, summary, status, and timeline order, so that the saved changes appear when the scene is viewed again.
 13. As an Instructor / Reviewer, I want to see a clear list of planned features and story data, so that I can understand how the app supports full-stack functionality and relational database design.
